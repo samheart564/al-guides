@@ -3,8 +3,33 @@
 Like in all gacha games, a grind is necessary for progression, whether than be for new ships, gear, experience, or materials. This guide hopes to give all players a comprehensive overview of farming in Azur Lane. 
 
 ## Table of Contents:
-- [Deciding What Ships to Use](#)
-
+- [Deciding What Ships to Use](#deciding-what-ships-to-use)
+    - [Helpful Ship Qualities](#helpful-ship-qualities)
+- [Farming Methods (Campaign, Events, & War Archives)](#farming-methods-campaign-events--war-archives)
+    - [Oil-Capped Stages](#oil-capped-stages)
+    - [Non-Oil-Capped Stages](#non-oil-capped-stages)
+    - [Hard Mode & Daily Challenges](#hard-mode--daily-challenges)
+- [Where to Farm (Campaign)](#where-to-farm-campaign)
+    - [Commander Level Farming](#commander-level-farming)
+    - [Ship EXP & Coin Farming](#ship-exp--coin-farming)
+    - [Retrofit Blueprints Farming](#retrofit-blueprints-farming)
+    - [Drop Ship Farming](#drop-ship-farming)
+    - [Recommended Beginner Farm Stages](#recommended-beginner-farm-stages)
+    - [Recommended Veteran Farm Stages](#recommended-veteran-farm-stages)
+    - [Tips for Farming Hard Campaign Stages](#tips-for-farming-hard-campaign-stages)
+- [Where to Farm (Events)](#where-to-farm-events)
+    - [Beginner Farm Stages](#beginner-farm-stages)
+    - [Veteran Farm Stages](#veteran-farm-stages)
+    - ["SP Events"](#"sp"-events)
+    - [War Archives](#war-archives)
+- [Farming Operation Siren](#farming-operation-siren)
+    - [Very Basic Fleetbuilding](#very-basic-fleetbuilding)
+    - [The Bare Minimum](#the-bare-minimum)
+    - [Shops](#shops)
+    - [Star Farming](#star-farming)
+    - [Excess AP Draning (Cat Node Farming)](#excess-ap-draining-cat-node-farming)
+- [Credits](#credits)
+<br/>
 
 ## Deciding What Ships to Use
 Consider:
@@ -30,6 +55,8 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
 - **Do NOT use oil cost as a consideration when determining what ships to use.**
     - Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
 
+<br/>
+
 ## Farming Methods (Campaign, Events, & War Archives)
 ***Note: "X:Y" = X Backline + Y Vanguard Ships***
 
@@ -48,6 +75,7 @@ If you can't 1:1 a stage, start off with a full fleet, then slowly remove ships 
 
 ### Hard Mode & Daily Challenges
 Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) fleet all 3 attempts (Veterans can quick battle the dailies too!). No need to overthink this. 
+<br/>
 
 ## Where to Farm (Campaign)
 <!---image moment
@@ -139,6 +167,7 @@ For general use, the best stages to farm are any stage in Chapter 12 or higher, 
 **Chapter 14:**
 
 Due to the high difficulty, just continue using your clear fleets as your farm fleets, even if ships are maxed level. It's far too risky to not use maxed level ships here. 
+<br/>
 
 ## Where to Farm (Events)
 You only farm Events for their Event Currency, Ship Drops, and/or Gear Drops. They are worse than Campaign stages in all other aspects. 
@@ -158,6 +187,7 @@ If you are unable to do SP3, grind the highest stage possible.
 Due to the lack of good resources in  [War Archives](https://azurlane.koumakan.jp/wiki/War_Archives) currently, it is not recommended to farm them outside of obtaining their drop-ships. It's recommended that beginner players grind  [Scherzo of Iron and Blood](https://azurlane.koumakan.jp/wiki/Scherzo_of_Iron_and_Blood) and/or  [Divergent Chessboard](https://azurlane.koumakan.jp/wiki/Opposite-Colored_Rerun) for drop-ships to obtain Iron Blood tech points for Shipyard. 
 
 *Once you clear the highest War Archive stage in an archive 60 times, you obtain a copy of the SR drop-ship for free, regardless of previous clear rewards.*
+<br/>
 
 ## Farming Operation Siren
 <!---more images yay 
@@ -207,13 +237,7 @@ Pick a random Corrosion 5 Zone. Set Strategic Search to repeat the same zone. Le
 - If possible, select the option to stop for the Merchant (Akashi) or Siren Constructs, but since they aren't that important it's your preference.
 The purpose of this is to get as many Cat Node loot drops as possible; since rewards outside of  ["The Bare Minimum"](#the-bare-minimum) are lackluster.
 **If you are in the middle of the month, make sure to have some AP leftover for future Stronghold/Coordinate Zones/Daily Missions.**   
+<br/>
 
-### Credits
+## Credits
 Written by samheart564#4031, with help from various AL community members. If there are any questions, DM me on Discord or ask in various AL-Help Channels.
-
-
-
-
-
-
-
