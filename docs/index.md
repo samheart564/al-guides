@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Samheart564 Azur Lane Guides
 
-You can use the [editor on GitHub](https://github.com/samheart564/al-guides/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! Linked below are my various guides for Azur Lane!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Farming Guide](/Farming%20Guide.md)
 
-### Markdown
+- Common Resource Guide (coming soon)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Research Guide (coming soon)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samheart564/al-guides/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Credits
+All guides are written by samheart564#4031, with help from various AL community members. If there are any questions, DM me on Discord or ask in various AL-Help Channels.
