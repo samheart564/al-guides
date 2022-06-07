@@ -1,7 +1,7 @@
 # Farming Guide
 
 Like in all gacha games, a grind is necessary for progression, whether than be for new ships, gear, experience, or materials. This guide hopes to give all players a comprehensive overview of farming in Azur Lane. 
-<!---Table of Contents
+<!-- Table of Contents
 ## Table of Contents:
 - **[Deciding What Ships to Use](#deciding-what-ships-to-use)**
     - [Helpful Ship Qualities](#helpful-ship-qualities)
@@ -34,7 +34,7 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
     - [Excess AP Draning (Cat Node Farming)](#excess-ap-draining-cat-node-farming)
 
 - **[Credits](#credits)**
-<br/> --->
+<br/> -->
 </br>
 <details>
     <summary>Deciding What Ships to Use</summary>
@@ -100,12 +100,12 @@ Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) 
 
 ## Where to Farm (Campaign)
 
-<!---image moment
+<!--- image moment
 {{Image Gallery|width=360px
 | 1-1 fleet example.png | Example of a 1:1 fleet. Ships that are max level aren't necessary for most farming.
 | 3-3 fleet example.png | Example of a 3:3 fleet. Ships that are max level aren't necessary for most farming.
 | Oil cap tutorial image.png | Oil-cap for stage 11-1. The oil-cap can be visible on this menu for all supported stages, as well as on the wiki page for the stage.
-}} --->
+}}  --->
 <br/>
 
 ### Commander Level Farming
@@ -132,7 +132,7 @@ Look the ship's drop locations on the wiki, then farm that stage according to th
 ### Recommended Beginner Farm Stages
 As a beginner, grinding these stages below for their gear is recommended.
 
-<!--- Need to Fix Table / image moment
+<!---  Need to Fix Table / image moment
 {|class="azltable mw-collapsible mw-collapsed" style="width:100%; text-align:center"
  |+ List of Notable Farmable Gear
  ! style="width:100px" | Icon
@@ -172,7 +172,7 @@ As a beginner, grinding these stages below for their gear is recommended.
  | Top barrage BB gun. 
  |-
 |}
---->
+ --->
 
 Beginners have two main goals:
 - **Getting to Commander Level 60.** This unlocks  [Operation Siren](https://azurlane.koumakan.jp/wiki/Operation_Siren) and by extension the  [Gear Lab](https://azurlane.koumakan.jp/wiki/Gear_Lab). *When grinding Commander Level exp, run full fleets for maximum efficiency.* 
@@ -234,11 +234,11 @@ Due to the lack of good resources in  [War Archives](https://azurlane.koumakan.j
 
 ## Farming Operation Siren
 
-<!---more images yay 
+<!--- more images yay 
  [File:Operation Siren Map.jpg|425px|thumb|right|Example Map of Operation Siren. Looks like someone still needs to clear it out...]
  [File:Operation siren fleet example.png|400px|thumb|right|Example Fleets for Operation Siren (Fleet 1 is cutoff). Fleet 4 is the example mob fleet. Notice how the only max level ship is  [Perseus], and both cats in Fleet 4 are SR Rarity.]
  [File:Tuning example.png|300px|thumb|right|Operation Siren Tuning Interface. Ignore "Power." Notice how Roman Numeral VII means the player can do all zones Corrosion 6 and below with relative safety.]
---->
+ --->
 **PLEASE READ THE  [OPERATION SIREN](https://azurlane.koumakan.jp/wiki/Operation_Siren) WIKI PAGE BEFORE CONTINUING!** 
 
 The main purpose of farming Operation Siren is for  [Gear Lab] materials as well as gold plates. Gear Lab is a great source of easy good gear suitable for any player. 
