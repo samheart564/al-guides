@@ -2,7 +2,7 @@
 
 Hello! Linked below are my various guides for Azur Lane!
 
-- [Farming Guide](/docs/Farming%20Guide.md)
+- [Farming Guide](/al-guides/docs/Farming%20Guide.md)
 
 - Common Resource Guide (coming soon)
 
