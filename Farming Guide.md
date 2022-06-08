@@ -1,17 +1,18 @@
+ <link rel="stylesheet" href="style.css">
+
 # Farming Guide
 
 Like in all gacha games, a grind is necessary for progression, whether than be for new ships, gear, experience, or materials. This guide hopes to give all players a comprehensive overview of farming in Azur Lane. 
-
-<!--- Table of Contents
+<br/>
+<br/>
+<!--- Table of Content
 ## Table of Contents:
 - **[Deciding What Ships to Use](#deciding-what-ships-to-use)**
     - [Helpful Ship Qualities](#helpful-ship-qualities)
-
 - **[Farming Methods (Campaign, Events, & War Archives)](#farming-methods-campaign-events--war-archives)**
     - [Oil-Capped Stages](#oil-capped-stages)
     - [Non-Oil-Capped Stages](#non-oil-capped-stages)
     - [Hard Mode & Daily Challenges](#hard-mode--daily-challenges)
-
 - **[Where to Farm (Campaign)](#where-to-farm-campaign)**
     - [Commander Level Farming](#commander-level-farming)
     - [Ship EXP & Coin Farming](#ship-exp--coin-farming)
@@ -20,20 +21,17 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
     - [Recommended Beginner Farm Stages](#recommended-beginner-farm-stages)
     - [Recommended Veteran Farm Stages](#recommended-veteran-farm-stages)
     - [Tips for Farming Hard Campaign Stages](#tips-for-farming-hard-campaign-stages)
-
 - **[Where to Farm (Events)](#where-to-farm-events)**
     - [Beginner Farm Stages](#beginner-farm-stages)
     - [Veteran Farm Stages](#veteran-farm-stages)
     - ["SP Events"](#"sp"-events)
     - [War Archives](#war-archives)
-
 - **[Farming Operation Siren](#farming-operation-siren)**
     - [Very Basic Fleetbuilding](#very-basic-fleetbuilding)
     - [The Bare Minimum](#the-bare-minimum)
     - [Shops](#shops)
     - [Star Farming](#star-farming)
     - [Excess AP Draning (Cat Node Farming)](#excess-ap-draining-cat-node-farming)
-
 - **[Credits](#credits)**
 <br/> --->
 
