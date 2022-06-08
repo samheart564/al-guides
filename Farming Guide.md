@@ -63,9 +63,9 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
 
 **Remember:**
 - **Do NOT choose ships for farming fleets based off of ONLY these qualities.** 
-- These ships *help*, they are not mandatory for efficient farming. 
+    - These ships *help*, they are not mandatory for efficient farming. 
 - **Do NOT use oil cost as a consideration when determining what ships to use.**
-- Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
+    - Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
 </details>
 <br/>
 <details>
