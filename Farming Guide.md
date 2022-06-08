@@ -1,7 +1,8 @@
 # Farming Guide
 
 Like in all gacha games, a grind is necessary for progression, whether than be for new ships, gear, experience, or materials. This guide hopes to give all players a comprehensive overview of farming in Azur Lane. 
-<!-- Table of Contents
+
+<!--- Table of Contents
 ## Table of Contents:
 - **[Deciding What Ships to Use](#deciding-what-ships-to-use)**
     - [Helpful Ship Qualities](#helpful-ship-qualities)
@@ -34,8 +35,8 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
     - [Excess AP Draning (Cat Node Farming)](#excess-ap-draining-cat-node-farming)
 
 - **[Credits](#credits)**
-<br/> -->
-</br>
+<br/> --->
+
 <details>
     <summary>Deciding What Ships to Use</summary>
 
@@ -49,6 +50,7 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
 <br/>
 
 ### Helpful Ship Qualities
+
 - **Healers** (ex. [Perseus](https://azurlane.koumakan.jp/wiki/Perseus), [Unicorn](https://azurlane.koumakan.jp/wiki/Unicorn), [Ryuuhou](https://azurlane.koumakan.jp/wiki/Ryuuhou), or [Shouhou](https://azurlane.koumakan.jp/wiki/Shouhou))
 
 - **Preloaders / Fast Loaders** (ex.  [Richelieu](https://azurlane.koumakan.jp/wiki/Richelieu),  [Aquila](https://azurlane.koumakan.jp/wiki/Aquila),  [Independence (Retrofit)](https://azurlane.koumakan.jp/wiki/Independence),  [Vittorio Veneto](https://azurlane.koumakan.jp/wiki/Vittorio_Veneto), etc.)
@@ -66,7 +68,6 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
     - Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
 </details>
 <br/>
-
 <details>
     <summary>Farming Methods (Campaign, Events, & War Archives)</summary>
 
