@@ -48,7 +48,7 @@ Consider:
 
 Try to avoid using ships that are maxed, as they serve no benefits to leeching the exp. 
 <br/>
-
+<br/>
 ### Helpful Ship Qualities
 
 - **Healers** (ex. [Perseus](https://azurlane.koumakan.jp/wiki/Perseus), [Unicorn](https://azurlane.koumakan.jp/wiki/Unicorn), [Ryuuhou](https://azurlane.koumakan.jp/wiki/Ryuuhou), or [Shouhou](https://azurlane.koumakan.jp/wiki/Shouhou))
@@ -60,7 +60,9 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
 - **Resisting Out-of-Ammo Effects** (ex.  [Marco Polo](https://azurlane.koumakan.jp/wiki/Marco_Polo),  [Emden](https://azurlane.koumakan.jp/wiki/Emden),  [Yamashiro META](https://azurlane.koumakan.jp/wiki/Yamashiro_META), etc.)
 
 *Note: Some ships (ex. Perseus) fall into multiple categories. READ SKILLS FOR MORE INFORMATION!* 
-
+<br/> 
+<br/> 
+<br/>
 **Remember:**
 - **Do NOT choose ships for farming fleets based off of ONLY these qualities.** 
     - These ships *help*, they are not mandatory for efficient farming. 
@@ -74,7 +76,7 @@ Try to avoid using ships that are maxed, as they serve no benefits to leeching t
 ## Farming Methods (Campaign, Events, & War Archives)
 
 ***Note: "X:Y" = X Backline + Y Vanguard Ships***
-<br/>
+
 
 ### Oil-Capped Stages
 An **oil-cap** (aka cost limit) limits the amount of oil spent per battle. It's that simple.
@@ -83,14 +85,14 @@ Found on:
 - **Events & War Archives:** Chapter D, or highest SP stage. 
 
 Because of that, **run full (3:3) fleets** when farming these stages. 
-<br/>
-
+<br/>    
+<br/> 
 ### Non-Oil-Capped Stages
 On the stages without an oil-cap, **use a 1:1 fleet** when farming. 
 If you can't 1:1 a stage, start off with a full fleet, then slowly remove ships until you can clear the stage safely. 
 - When using two fleets, try as much as you can to 1:1 the pre-boss enemies (mobs) if you can't 1:1 the boss.
 <br/>
-
+ 
 ### Hard Mode & Daily Challenges
 Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) fleet all 3 attempts (Veterans can quick battle the dailies too!). No need to overthink this. 
 </details>
@@ -107,8 +109,7 @@ Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) 
 | 3-3 fleet example.png | Example of a 3:3 fleet. Ships that are max level aren't necessary for most farming.
 | Oil cap tutorial image.png | Oil-cap for stage 11-1. The oil-cap can be visible on this menu for all supported stages, as well as on the wiki page for the stage.
 }}  --->
-<br/>
-
+    
 ### Commander Level Farming
 - Use full fleets on the highest stage you can grind (Active Event > Campaign). **Ignore any mention of "1:1" if Commander Level farming!** 
 - Don't quick battle dailies. 
@@ -125,11 +126,11 @@ Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) 
 ### Retrofit Blueprints Farming
 Grind the highest hard mode stage you can do that drops the prints you need. Double-check the stage drops to make sure you are grinding the right stage! **The higher the better, due to more Core Data.** 
 <br/>
-
+<br/>
 ### Drop Ship Farming
 Look the ship's drop locations on the wiki, then farm that stage according to the methods above. 
 <br/>
-
+<br/>
 ### Recommended Beginner Farm Stages
 As a beginner, grinding these stages below for their gear is recommended.
 
@@ -181,20 +182,20 @@ Beginners have two main goals:
 
 **9-1 is the best farm stage for Beginners by a mile.** If you are unable to do 9-1, grind the highest stage you can do. 
 <br/>
-
+<br/>
 ### Recommended Veteran Farm Stages
 For general use, the best stages to farm are any stage in Chapter 12 or higher, due to the efficient exp, coins, and chance of [Cognitive Chips](https://azurlane.koumakan.jp/wiki/Dockyard#Cognitive_Awakening) dropping from clearing rewards. 
 - The lower you go (up until 12-1) the more exp efficient the grind becomes. 
 - The higher you go (up until 13-4) the more coin efficient the grind becomes. 
 - Note: Spare yourself the pain and don't farm Chapter 14 outside of drop-ships. 
 <br/>
-
+ 
 ### Tips for Farming Hard Campaign Stages
 **Chapter 13:**
 - Meet the  [Airspace Control Value](https://azurlane.koumakan.jp/wiki/Combat#Airspace_Control) for the stage. 
 - Make sure the fleet has enough Anti-Air to deal with the planes. 
 - Use a healer in the mob fleet, even if they are maxed level. It prevents a lot of suffering. 
-
+ 
 **Chapter 14:**
 
 Due to the high difficulty, just continue using your clear fleets as your farm fleets, even if ships are maxed level. It's far too risky to not use maxed level ships here. 
@@ -212,17 +213,17 @@ You only farm Events for their Event Currency, Ship Drops, and/or Gear Drops. Th
 ### Beginner Farm Stages
 Grind the highest stage possible that you can. Ideally get to B3 (for the drop ship) if possible. Getting to Chapter D is ideal. 
 <br/>
-
+<br/>
 ### Veteran Farm Stages 
 Grind **D3** using full fleets (due to the oil-cap), while also clearing the **SP** stage daily. Since the SP stage gives 800 currency, ignore oil-cost when clearing it. 
 If there is a stage with a good gear drop, grinding that is fine as an alternative to D3. 
 <br/>
-
+<br/>
 ### "SP" Events 
 Grind the **highest SP stage (usually SP3)** using full fleets, while also clearing the **VSP** stage daily (just like traditional events). 
 If you are unable to do SP3, grind the highest stage possible. 
 <br/>
-
+<br/>
 ### War Archives 
 Due to the lack of good resources in  [War Archives](https://azurlane.koumakan.jp/wiki/War_Archives) currently, it is not recommended to farm them outside of obtaining their drop-ships. It's recommended that beginner players grind  [Scherzo of Iron and Blood](https://azurlane.koumakan.jp/wiki/Scherzo_of_Iron_and_Blood) and/or  [Divergent Chessboard](https://azurlane.koumakan.jp/wiki/Opposite-Colored_Rerun) for drop-ships to obtain Iron Blood tech points for Shipyard. 
 
@@ -242,16 +243,18 @@ Due to the lack of good resources in  [War Archives](https://azurlane.koumakan.j
  --->
 **PLEASE READ THE  [OPERATION SIREN](https://azurlane.koumakan.jp/wiki/Operation_Siren) WIKI PAGE BEFORE CONTINUING!** 
 
-The main purpose of farming Operation Siren is for  [Gear Lab] materials as well as gold plates. Gear Lab is a great source of easy good gear suitable for any player. 
+The main purpose of farming Operation Siren is for  [Gear Lab](https://azurlane.koumakan.jp/wiki/Gear_Lab) materials as well as gold plates. Gear Lab is a great source of easy good gear suitable for any player. 
 <br/>
 
 ### Very Basic Fleetbuilding 
 Full fleet all of Operation Siren. Oil cost is a non-factor; no need to overthink this. 
 
-*For the farming (mob) fleet, refer back to  [this section](#deciding-what-ships-to-use) to decide what ships to use. 
-**Use a healer in the mob fleet, even if they are maxed level. It prevents a lot of suffering. 
+- For the farming (mob) fleet, refer back to  [this section](#deciding-what-ships-to-use) to decide what ships to use. 
+    - Use a healer in the mob fleet, even if they are maxed level. It prevents a lot of suffering. 
 
-*For the other (boss) fleets, it is recommended to use maxed level good ships due to the high difficulty of the content. 
+- For the other (boss) fleets, it is recommended to use maxed level good ships due to the high difficulty of the content. 
+<br/>
+<br/>
 
 **Cats:**
 - Unlike previous stages, the **rarity** and **level** of the cats in your farming fleet matter! Make sure the cats are SR Rarity and as high level as possible; the talents don't matter. 
@@ -267,25 +270,25 @@ Clear every single zone once, until the entire map is unlocked.
 Then, wipe your map clean of any icons above stages. This includes any Coordinates (both Fractured and Abyssal), Strongholds, the monthly Arbiter, and Daily/Story Missions. 
 - When auto-search is an option, use it to your advantage! Auto-search will get most everything important on all zone types. 
 <br/>
- 
+
 ### Shops 
-*Blue Port Shops (NYC, Liverpool, Gibraltar, St. Petersburg):** Buy out EVERYTHING!
-*Mysterious Merchant (Akashi):** Except for tuning (if maxed) and repair boxes (any type), buy out EVERYTHING!   
+- Blue Port Shops (NYC, Liverpool, Gibraltar, St. Petersburg): **Buy out EVERYTHING!**
+- Mysterious Merchant (Akashi): **Except for tuning (if maxed) and repair boxes (any type), buy out EVERYTHING!**   
 <br/>
- 
+
 ### Star Farming 
-In Operation Siren, stars allow you to get one-time rewards depending on number of stars obtained. These stars are heavily RNG; only hyper-focus them if you have spare time. Read the  [List of Operation Siren Zones](https://azurlane.koumakan.jp/wiki/List_of_Operation_Siren_Zones) wiki page for more information. 
+In Operation Siren, stars allow you to get one-time rewards depending on number of stars obtained. These stars are heavily RNG; only hyper-focus them if you have spare time. Read the [List of Operation Siren Zones](https://azurlane.koumakan.jp/wiki/List_of_Operation_Siren_Zones) wiki page for more information. 
 
 Pick the zone you want to farm stars on. Set Strategic Search to repeat the same zone. Let auto-search do the work for you until your AP is drained. Profit. 
-**Note: Some stars are RNG only on first monthly clear (explorable).*
+*Note: Some stars are RNG only on first monthly clear (explorable).*
 
 **If you are in the middle of the month, make sure to have some AP leftover for future Stronghold/Coordinate Zones/Daily Missions.**  
 <br/>
-
+<br/>
 ### Excess AP Draining (Cat Node Farming) 
 Pick a random Corrosion 5 Zone. Set Strategic Search to repeat the same zone. Let auto-search do the work for you until your AP is drained. Profit.
 - If possible, select the option to stop for the Merchant (Akashi) or Siren Constructs, but since they aren't that important it's your preference.
-The purpose of this is to get as many Cat Node loot drops as possible; since rewards outside of  ["The Bare Minimum"](#the-bare-minimum) are lackluster.
+The purpose of this is to get as many Cat Node loot drops as possible, since rewards outside of  ["The Bare Minimum"](#the-bare-minimum) are lackluster.
 **If you are in the middle of the month, make sure to have some AP leftover for future Stronghold/Coordinate Zones/Daily Missions.**   
 </details>
 <br/>
