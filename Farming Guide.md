@@ -102,14 +102,12 @@ Since Hard Mode & Daily Challenges have limited daily attempts, just full (3:3) 
     <summary>Where to Farm (Campaign)</summary>
 
 ## Where to Farm (Campaign)
-
 <!--- image moment
 {{Image Gallery|width=360px
 | 1-1 fleet example.png | Example of a 1:1 fleet. Ships that are max level aren't necessary for most farming.
 | 3-3 fleet example.png | Example of a 3:3 fleet. Ships that are max level aren't necessary for most farming.
 | Oil cap tutorial image.png | Oil-cap for stage 11-1. The oil-cap can be visible on this menu for all supported stages, as well as on the wiki page for the stage.
 }}  --->
-    
 ### Commander Level Farming
 - Use full fleets on the highest stage you can grind (Active Event > Campaign). **Ignore any mention of "1:1" if Commander Level farming!** 
 - Don't quick battle dailies. 
