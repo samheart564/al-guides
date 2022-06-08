@@ -39,33 +39,33 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
 
 <details>
     <summary>Deciding What Ships to Use</summary>
-    
-    ## Deciding What Ships to Use
 
-    Consider:
-    - Does this ship need levels for any reason? (For use in harder content, fleet technology, secretary missions, etc.)
-    - Does this ship need affinity for any reason? (Oaths, stat boosts, secretary missions, etc.)
+## Deciding What Ships to Use
 
-    Try to avoid using ships that are maxed, as they serve no benefits to leeching the exp. 
-    <br/>
+Consider:
+- Does this ship need levels for any reason? (For use in harder content, fleet technology, secretary missions, etc.)
+- Does this ship need affinity for any reason? (Oaths, stat boosts, secretary missions, etc.)
 
-    ### Helpful Ship Qualities
+Try to avoid using ships that are maxed, as they serve no benefits to leeching the exp. 
+<br/>
 
-    - **Healers** (ex. [Perseus](https://azurlane.koumakan.jp/wiki/Perseus), [Unicorn](https://azurlane.koumakan.jp/wiki/Unicorn), [Ryuuhou](https://azurlane.koumakan.jp/wiki/Ryuuhou), or [Shouhou](https://azurlane.koumakan.jp/wiki/Shouhou))
+### Helpful Ship Qualities
 
-    - **Preloaders / Fast Loaders** (ex.  [Richelieu](https://azurlane.koumakan.jp/wiki/Richelieu),  [Aquila](https://azurlane.koumakan.jp/wiki/Aquila),  [Independence (Retrofit)](https://azurlane.koumakan.jp/wiki/Independence),  [Vittorio Veneto](https://azurlane.koumakan.jp/wiki/Vittorio_Veneto), etc.)
+- **Healers** (ex. [Perseus](https://azurlane.koumakan.jp/wiki/Perseus), [Unicorn](https://azurlane.koumakan.jp/wiki/Unicorn), [Ryuuhou](https://azurlane.koumakan.jp/wiki/Ryuuhou), or [Shouhou](https://azurlane.koumakan.jp/wiki/Shouhou))
 
-    - **Self-Heals** (ex.  [Neptune](https://azurlane.koumakan.jp/wiki/Neptune),  [Minneapolis](https://azurlane.koumakan.jp/wiki/Minneapolis),  [Phoenix](https://azurlane.koumakan.jp/wiki/Phoenix), etc.)
+- **Preloaders / Fast Loaders** (ex.  [Richelieu](https://azurlane.koumakan.jp/wiki/Richelieu),  [Aquila](https://azurlane.koumakan.jp/wiki/Aquila),  [Independence (Retrofit)](https://azurlane.koumakan.jp/wiki/Independence),  [Vittorio Veneto](https://azurlane.koumakan.jp/wiki/Vittorio_Veneto), etc.)
 
-    - **Resisting Out-of-Ammo Effects** (ex.  [Marco Polo](https://azurlane.koumakan.jp/wiki/Marco_Polo),  [Emden](https://azurlane.koumakan.jp/wiki/Emden),  [Yamashiro META](https://azurlane.koumakan.jp/wiki/Yamashiro_META), etc.)
+- **Self-Heals** (ex.  [Neptune](https://azurlane.koumakan.jp/wiki/Neptune),  [Minneapolis](https://azurlane.koumakan.jp/wiki/Minneapolis),  [Phoenix](https://azurlane.koumakan.jp/wiki/Phoenix), etc.)
 
-    *Note: Some ships (ex. Perseus) fall into multiple categories. READ SKILLS FOR MORE INFORMATION!* 
+- **Resisting Out-of-Ammo Effects** (ex.  [Marco Polo](https://azurlane.koumakan.jp/wiki/Marco_Polo),  [Emden](https://azurlane.koumakan.jp/wiki/Emden),  [Yamashiro META](https://azurlane.koumakan.jp/wiki/Yamashiro_META), etc.)
 
-    **Remember:**
-    - **Do NOT choose ships for farming fleets based off of ONLY these qualities.** 
-    - These ships *help*, they are not mandatory for efficient farming. 
-    - **Do NOT use oil cost as a consideration when determining what ships to use.**
-    - Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
+*Note: Some ships (ex. Perseus) fall into multiple categories. READ SKILLS FOR MORE INFORMATION!* 
+
+**Remember:**
+- **Do NOT choose ships for farming fleets based off of ONLY these qualities.** 
+- These ships *help*, they are not mandatory for efficient farming. 
+- **Do NOT use oil cost as a consideration when determining what ships to use.**
+- Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
 </details>
 <br/>
 <details>
