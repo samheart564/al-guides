@@ -1,3 +1,5 @@
+ <link rel="stylesheet" href="style.css">
+
 # Samheart564 Azur Lane Guides
 
 These guides hope to help players on their Azur Lane Journey!
@@ -5,7 +7,7 @@ These guides hope to help players on their Azur Lane Journey!
 <br/>
 ## Guides
 
-- [Farming Guide](/al-guides/Farming%20Guide)
+- [Farming Guide](/Farming%20Guide)
 
 - Common Resource Guide (coming soon)
 
