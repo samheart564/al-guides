@@ -1,4 +1,4 @@
-/*background and font color*/
+/*stuff to make it pretty*/
 
 * {
 
@@ -6,4 +6,16 @@ margin:0;
 background-color: black;
 color: whitesmoke;
 
+}
+
+a:link {
+    color:cornflowerblue
+}
+
+a:visited {
+    color:gray
+}
+
+a:hover {
+    color:aqua
 }
