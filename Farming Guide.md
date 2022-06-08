@@ -1,6 +1,7 @@
 # Farming Guide
 
 Like in all gacha games, a grind is necessary for progression, whether than be for new ships, gear, experience, or materials. This guide hopes to give all players a comprehensive overview of farming in Azur Lane. 
+
 <!--- Table of Contents
 ## Table of Contents:
 - **[Deciding What Ships to Use](#deciding-what-ships-to-use)**
