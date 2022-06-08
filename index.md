@@ -7,7 +7,7 @@ These guides hope to help players on their Azur Lane Journey!
 <br/>
 ## Guides
 
-- [Farming Guide](/Farming%20Guide)
+- [Farming Guide](/al-guides/Farming%20Guide)
 
 - Common Resource Guide (coming soon)
 
