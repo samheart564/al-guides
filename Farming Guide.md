@@ -39,7 +39,7 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
 
 <details>
     <summary>Deciding What Ships to Use</summary>
-
+    
     ## Deciding What Ships to Use
 
     Consider:
@@ -68,7 +68,6 @@ Like in all gacha games, a grind is necessary for progression, whether than be f
     - Investing in ships that have a purpose for future content, whether that be through leveling them or through their fleet technology benefits, is better in the long run. 
 </details>
 <br/>
-
 <details>
     <summary>Farming Methods (Campaign, Events, & War Archives)</summary>
 
